@@ -1,0 +1,66 @@
+baseURL = "https://profile.up-tri.me/"
+languageCode = "ja-JP"
+tdefaultContentLanguage = "ja"
+title = "up-tri's website"
+
+theme = "axiom"
+
+# Pagination (increase number for production)
+paginate = 2
+# Canonify relative URLs using baseURL
+canonifyURLs = false
+# Length of snippet on post index and structured data
+summaryLength = 40
+# Max posts to show in atom feed
+rssLimit = 100
+# Enable Emoji's in posts
+enableEmoji = true
+# Output a robots.txt file (see the 'Frontmatter' Docs page)
+enableRobotsTXT = true
+# Don't automatically mangle titles
+pluralizelisttitles = false
+
+[params]
+# Sections to include in lists and indexes
+mainSections = ["posts"]
+# Footer copyright start year, prepended to current year, e.g., 2000-2020
+copyrightYear = 2019
+# Posts Date format
+# Go Reference time: Mon Jan 2 15:04:05 MST 2006
+dateFormat = "2006.01.02"
+# Chroma Syntax Highlighting
+# Options: dark, light, false
+highlight = "dark"
+disableThemeAttribution = false
+
+# Max Width Page sections
+maxWidthTitle = "max-w-2xl"
+maxWidthFeature = "max-w-5xl"
+maxWidthContent = "max-w-2xl"
+
+# Max Width Template parts
+maxWidthHeader = "max-w-6xl"
+maxWidthFooter = "max-w-6xl"
+
+[params.brand]
+domain = "up-tri.me"
+email = "yaki-shake@up-tri.me"
+
+[params.social]
+github = "https://github.com/up-tri"
+twitter = "https://twitter.com/up_tri_"
+footer = ["twitter", "github"]
+
+[params.logo]
+inline = false
+path = "images/brand/icon.jpg"
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "about hugo"
+pre = "<i class='fa fa-heart'></i>"
+url = "/about/"
+weight = -110
+
+# [[menu.foot]]
