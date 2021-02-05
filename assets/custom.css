@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;400;700&display=swap');
+@import url('/webfonts/css/all.min.css');
 
-.cdata>blockquote p, .cdata>ol, .cdata>p, .cdata>ul{
-  font-family: 'Noto Sans JP', sans-serif;
+.cdata>blockquote p,
+.cdata>ol,
+.cdata>p,
+.cdata>ul {
+  font-family: 'Noto Sans JP', sans-serif !important;
 }
