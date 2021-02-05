@@ -53,7 +53,7 @@ footer = ["twitter", "github"]
 
 [params.logo]
 inline = false
-path = "images/brand/icon.jpg"
+path = "images/brand/icon_small.jpg"
 
 [menu]
 [[menu.main]]

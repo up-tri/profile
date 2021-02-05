@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://profile.up-tri.me/sitemap.xml
