@@ -58,7 +58,7 @@ path = "images/brand/icon.jpg"
 [menu]
 [[menu.main]]
 identifier = "about"
-name = "about hugo"
+name = "about me"
 url = "/about/"
 weight = -110
 
