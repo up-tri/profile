@@ -24,14 +24,14 @@ pluralizelisttitles = false
 # Sections to include in lists and indexes
 mainSections = ["posts"]
 # Footer copyright start year, prepended to current year, e.g., 2000-2020
-copyrightYear = 2019
+copyrightYear = 2017
 # Posts Date format
 # Go Reference time: Mon Jan 2 15:04:05 MST 2006
 dateFormat = "2006.01.02"
 # Chroma Syntax Highlighting
 # Options: dark, light, false
 highlight = "dark"
-disableThemeAttribution = false
+disableThemeAttribution = true
 
 # Max Width Page sections
 maxWidthTitle = "max-w-2xl"
@@ -59,8 +59,12 @@ path = "images/brand/icon.jpg"
 [[menu.main]]
 identifier = "about"
 name = "about hugo"
-pre = "<i class='fa fa-heart'></i>"
 url = "/about/"
 weight = -110
 
 # [[menu.foot]]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
