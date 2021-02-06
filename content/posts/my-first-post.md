@@ -2,17 +2,11 @@
 date = 2021-02-02T12:00:00Z
 lastmod = 2021-02-02T12:00:00Z
 author = "default"
-title = "My First Post"
-subtitle = "Suggested 25 words / 125 chars. Used in metadata, and content summaries."
+title = "サイト移しました"
+subtitle = ""
 # feature = "<no value>"
 +++
 
-# 見出し１
+大して更新もしていないので、情報アップデートついでに[Hugo](https://gohugo.io/)に切り替えました。
 
-## 見出し 2
-
-テストだにょーん
-
-```js
-function hoge(i = 0) {}
-```
+これからもよろしくお願いいたします。

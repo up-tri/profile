@@ -1,9 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;400;700&display=swap');
 @import url('/webfonts/css/all.min.css');
 
+.font-content-title,
 .cdata>blockquote p,
 .cdata>ol,
 .cdata>p,
 .cdata>ul {
   font-family: 'Noto Sans JP', sans-serif !important;
+}
+
+.font-content-title {
+  font-weight: 600;
+}
+
+.cdata a {
+  text-decoration: underline;
+  font-weight: bold;
+  color: rgb(0, 81, 173) !important;
 }
