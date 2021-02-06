@@ -31,7 +31,7 @@ date: 2021-02-05T18:40:42+09:00
 <i class="fas fa-map-marker-alt"></i> 2015 年 夏〜2020 年 5 月  
 <small>ベンチャー企業に Web エンジニアとして参画</small>
 
-<i class="fas fa-map-marker-alt"></i> 2016 年 10 月〜2020 年 3 月  
+<i class="fas fa-map-marker-alt"></i> 2016 年 10 月〜2019 年 3 月  
 <small>武蔵野市事業[中高生世代広場](http://www.city.musashino.lg.jp/kurashi_guide/shisetsu_jigyo/1019662.html)に、大学生ファシリテーターとして立ち上げから参画</small>
 
 <i class="fas fa-map-marker-alt"></i> 2018 年 8 月〜2020 年春  
