@@ -2,7 +2,7 @@
 date = 2021-02-02T12:00:00Z
 lastmod = 2021-02-02T12:00:00Z
 author = "default"
-title = "サイト移しました"
+title = "サイトをコチラに移しました"
 subtitle = ""
 # feature = "<no value>"
 +++

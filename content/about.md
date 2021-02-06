@@ -20,7 +20,7 @@ date: 2021-02-05T18:40:42+09:00
 以前は`Canon 6D Mk.II`, `Canon 7D Mk.II`を二機使いしていたのですが  
 最近は`FUJIFILM X-Pro2`使っています。
 
-![](/images/nemophila.jpg)
+{{< figure src="/images/nemophila.jpg" alt="ネモフィラ@日比谷公園" caption="ネモフィラ@日比谷公園" >}}
 
 ・お酒（控え中）
 
